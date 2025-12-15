@@ -1,0 +1,10 @@
+C:\Users\Xozain\Desktop\Лабораторные\Лабораторная работа 2\Лабораторная 2\Лабораторная 2\obj\Debug\Лабораторная 2.csproj.AssemblyReference.cache
+C:\Users\Xozain\Desktop\Лабораторные\Лабораторная работа 2\Лабораторная 2\Лабораторная 2\obj\Debug\Lab5_Graphics.Form1.resources
+C:\Users\Xozain\Desktop\Лабораторные\Лабораторная работа 2\Лабораторная 2\Лабораторная 2\obj\Debug\Лабораторная_2.Properties.Resources.resources
+C:\Users\Xozain\Desktop\Лабораторные\Лабораторная работа 2\Лабораторная 2\Лабораторная 2\obj\Debug\Лабораторная 2.csproj.GenerateResource.cache
+C:\Users\Xozain\Desktop\Лабораторные\Лабораторная работа 2\Лабораторная 2\Лабораторная 2\obj\Debug\Лабораторная 2.csproj.CoreCompileInputs.cache
+C:\Users\Xozain\Desktop\Лабораторные\Лабораторная работа 2\Лабораторная 2\Лабораторная 2\bin\Debug\Лабораторная 2.exe.config
+C:\Users\Xozain\Desktop\Лабораторные\Лабораторная работа 2\Лабораторная 2\Лабораторная 2\bin\Debug\Лабораторная 2.exe
+C:\Users\Xozain\Desktop\Лабораторные\Лабораторная работа 2\Лабораторная 2\Лабораторная 2\bin\Debug\Лабораторная 2.pdb
+C:\Users\Xozain\Desktop\Лабораторные\Лабораторная работа 2\Лабораторная 2\Лабораторная 2\obj\Debug\Лабораторная 2.exe
+C:\Users\Xozain\Desktop\Лабораторные\Лабораторная работа 2\Лабораторная 2\Лабораторная 2\obj\Debug\Лабораторная 2.pdb
