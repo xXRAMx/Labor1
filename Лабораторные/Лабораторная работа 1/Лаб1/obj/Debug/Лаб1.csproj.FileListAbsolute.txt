@@ -1,0 +1,10 @@
+C:\Users\IWantToBelieve\source\repos\Лаб1\Лаб1\obj\Debug\Лаб1.csproj.AssemblyReference.cache
+C:\Users\IWantToBelieve\source\repos\Лаб1\Лаб1\obj\Debug\Лабораторная1.Form1.resources
+C:\Users\IWantToBelieve\source\repos\Лаб1\Лаб1\obj\Debug\Лаб1.Properties.Resources.resources
+C:\Users\IWantToBelieve\source\repos\Лаб1\Лаб1\obj\Debug\Лаб1.csproj.GenerateResource.cache
+C:\Users\IWantToBelieve\source\repos\Лаб1\Лаб1\obj\Debug\Лаб1.csproj.CoreCompileInputs.cache
+C:\Users\IWantToBelieve\source\repos\Лаб1\Лаб1\bin\Debug\Лаб1.exe.config
+C:\Users\IWantToBelieve\source\repos\Лаб1\Лаб1\bin\Debug\Лаб1.exe
+C:\Users\IWantToBelieve\source\repos\Лаб1\Лаб1\bin\Debug\Лаб1.pdb
+C:\Users\IWantToBelieve\source\repos\Лаб1\Лаб1\obj\Debug\Лаб1.exe
+C:\Users\IWantToBelieve\source\repos\Лаб1\Лаб1\obj\Debug\Лаб1.pdb
